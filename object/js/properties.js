@@ -11,6 +11,3 @@ function namee() {
 }
 
 console.log(namee());
-
-// create array
-const createArray = [1, "ali", "banana"];
